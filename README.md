@@ -84,3 +84,7 @@ The beginning directory structure for chemistry 114 (FLOMIN-114) should be:
 
 - Generate high-accuracy consensus sequences and remove chimera before taxo profile [VSEARCH / MEDAKA] see Ohta et al. 2023
 - Add in config file the option to run P2 and P3 scripts with Illumina inputs amplicon reads
+
+## Author ##
+
+Nicolas Nesi — UMR 1311 Inserm DYNAMICURE, Université de Caen Normandie
