@@ -77,7 +77,7 @@ The beginning directory structure for chemistry 114 (FLOMIN-114) should be:
 
 ## Pipeline workflow ##
 
-![Figure_Pipeline_MetaBarcoding_Nanopore](https://github.com/user-attachments/assets/fedc78d7-0f0b-41dd-be07-238e781890e3)
+![Figure_Pipeline_MetaBarcoding_Nanopore.png](docs/Figure_Pipeline_MetaBarcoding_Nanopore.png)
 
 
 ## To do ##
